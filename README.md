@@ -10,15 +10,16 @@ Web-app mobile-first accessibile tramite QR code sul portachiavi delle case vaca
 
 Scelta guidata di esperienze locali e form dinamico per richiedere info allo satff. 
 
+---
 
 Project: [Where Do Locals]
 Website Type: Static site (HTML, CSS, JSAVASCRIPT)
 Form Behavior: Generates pre-filled message for email or WhatsApp
 Backend: None (no database, no data storage)
 
-------------------------------------------------------------
-Legal & Privacy Compliance (EU GDPR + Italian Regulations)
-------------------------------------------------------------
+This site is fully compliant with EU and Italian privacy standards for static websites.
+There is no personal data processing or storage on the server.
+All communication is handled client-side via user-initiated messaging.
 
 1. Privacy Policy (Required)
 - A dedicated page ("privacy-policy.html") is included.
@@ -59,11 +60,5 @@ Legal & Privacy Compliance (EU GDPR + Italian Regulations)
   - VAT number (Partita IVA)
   - Registered address
   - Contact email
-
-------------------------------------------------------------
-This site is fully compliant with EU and Italian privacy standards for static websites.
-There is no personal data processing or storage on the server.
-All communication is handled client-side via user-initiated messaging.
-------------------------------------------------------------
 
 
