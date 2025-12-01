@@ -1,6 +1,6 @@
 testing in production
 
-![Where Do Locals](assets/img/original/logo-wdl.png)
+[![Where Do Locals](docs/assets/img/original/logo-wdl.png)](https://buggcatcher.github.io/W.D.L./)
 
 **There's another world around the corner**  
 
