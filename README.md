@@ -8,9 +8,9 @@ testing in production
 
 Web-app mobile-first accessibile tramite QR code sul portachiavi delle case vacanza.  
 Scelta guidata di esperienze locali e form dinamico per richiedere info allo satff.  
-
----
-
+  
+  
+  
 Project: [Where Do Locals]  
 Website Type: Static site (HTML, CSS, JSAVASCRIPT)  
 Form Behavior: Generates pre-filled message for email or WhatsApp  
@@ -20,7 +20,7 @@ This site is fully compliant with EU and Italian privacy standards for static we
 There is no personal data processing or storage on the server.  
 All communication is handled client-side via user-initiated messaging.  
 
-1. Privacy Policy (Required)  
+1. Privacy Policy
 - A dedicated page ("privacy-policy.html") is included.  
 - It contains:  
   - Identity of the Data Controller  
@@ -32,7 +32,7 @@ All communication is handled client-side via user-initiated messaging.
   - Contact info for any concerns or GDPR inquiries
   - Notice regarding external third-party links
 
-2. Consent Checkbox (Required)
+2. Consent Checkbox
 - The form includes a required checkbox to collect user consent.
 - The form cannot be submitted unless the checkbox is selected.
 - Consent text clearly refers to the Privacy Policy.
